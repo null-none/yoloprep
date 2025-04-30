@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+raw_images
+images/
+labels/
+video.mp4
+video.mov
+example.py
+.DS_Store
+*.DS_Store
